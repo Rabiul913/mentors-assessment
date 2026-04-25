@@ -1,6 +1,6 @@
 # ShopEase BD — Sales Data Management System
 
-Full-stack web application built with **Laravel 11** (REST API) + **Next.js 14** (React frontend).  
+Full-stack web application built with **Laravel 10** (REST API) + **Next.js 14** (React frontend).  
 Imports, cleans, stores, and exports ~20,000 rows of messy wholesale sales data across 6 Bangladesh branches.
 
 ---
